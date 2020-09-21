@@ -1,0 +1,9 @@
+click==7.1.2
+comtypes==1.1.7
+prompt-toolkit==1.0.14
+pyfiglet==0.8.post1
+Pygments==2.7.1
+PyInquirer==1.0.3
+regex==2020.7.14
+six==1.15.0
+wcwidth==0.2.5

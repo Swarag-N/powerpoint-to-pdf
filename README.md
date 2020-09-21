@@ -7,3 +7,6 @@ A set of Python scripts to convert PowerPoint (PPT/PPTX) files to Adobe PDF
 - ConvertHere.py - Converts all PowerPoint (PPT/PPTX) files the working folder into Adobe PDFs
 
 Please see each script for full instructions on how to use the script.
+
+My Implemenation of the Scripts
+![Folder](docs\images\folderScript.gif)
