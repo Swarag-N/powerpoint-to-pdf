@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ppt2pdf", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Swarag Narayanasetty",
     description="Converts PPT to PDF",
     long_description=long_description,
@@ -22,7 +22,9 @@ setuptools.setup(
     py_modules=['ppt2pdf'],
     install_requires=[
         'click',
-        'comtypes'
+        'comtypes',
+        'pyfiglet',
+        'PyInquirer',
     ],
     entry_points={
         'console_scripts':[
