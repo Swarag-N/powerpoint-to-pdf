@@ -27,4 +27,5 @@ A set of Python scripts to convert PowerPoint (PPT/PPTX) files to Adobe PDF
 Please see each script for full instructions on how to use the script.
 
 My Implemenation of the Scripts
-![Folder](.\docs\images\folderScript.gif)
+
+![Folder](docs/images/folderScript.gif)
